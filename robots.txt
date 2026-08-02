@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adrimarcacavazamentos.com.br/sitemap.xml
