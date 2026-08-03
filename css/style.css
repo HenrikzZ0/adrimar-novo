@@ -802,6 +802,9 @@ h4 {
   color: var(--gray-500);
   font-size: 0.92rem;
 }
+.area-card.destaque::before {
+  background: var(--yellow);
+}
 
 /* ---------- Gallery ---------- */
 .gallery-grid {
